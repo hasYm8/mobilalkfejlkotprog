@@ -7,7 +7,6 @@ public class ActivityItem {
     private int burnedcalories;
 
     ActivityItem() {
-
     }
 
     public String getUserID() {
